@@ -1,25 +1,24 @@
-# ReduxSimpleStarter
+Okay So this is My First Project In React !!
+Thanks BigPanda for pushing me into finishing my online courses in react in order to implement the exercise .
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+So what we have Here ?
+- Implemented The comments Form exercise
+- Exposed to a new technology (react , redux ... )
+- Added Bootstratp styling
+- API with https://en.gravatar.com/
+- Mock Up will be found in img folder
 
-###Getting Started###
+Whats is Missing ?
+- Implementing the filter comments ..
+- Adding the Server Side ...
+- testing ...
 
-There are two methods for getting started with this repo.
 
-####Familiar with Git?#####
-Checkout this repo, install dependencies, then start the gulp process with the following:
 
-```
-	> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
-	> cd ReduxSimpleStarter
-	> npm install
-	> npm start
-```
+How to start the project ?
+1. npm install
+2. npm start
 
-####Not Familiar with Git?#####
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
 
-```
-	> npm install
-	> npm start
+
 ```
