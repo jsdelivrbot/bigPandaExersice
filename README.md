@@ -18,7 +18,7 @@
 
 
 **How to start the project ?**
-1. npm install
+1. npm install (**it may take a few minutes**)
 2. npm start
 
 
